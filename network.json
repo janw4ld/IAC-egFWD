@@ -62,12 +62,6 @@
                }
             ]
          }
-      },
-      "InternetGatewayAttachment" : {
-         "Type" : "AWS::EC2::VPCGatewayAttachment",
-         "Properties" : {
-            "InternetGatewayId" : {}
-         }
       }
    }
 }
