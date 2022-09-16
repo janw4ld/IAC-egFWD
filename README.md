@@ -1,1 +1,0 @@
-WebAppLB-DNS-URL:http://proje-webap-v3bcz5mym4xh-987662906.us-east-1.elb.amazonaws.com/
