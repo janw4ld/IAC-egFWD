@@ -1,5 +1,10 @@
 ## egFWD Advanced Cloud DevOps project 2:
 # Deploy a High-Availability Web App using CloudFormation
+## Infrastructure Diagram
+![infrastructue diagram](Udagram.png)
+
+---
+## Project specifications
 ### The Basics
 |CRITERIA|SPECIFICATIONS|MEETS SPECIFICATIONS|
 |---|---|---|
