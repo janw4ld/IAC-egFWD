@@ -1,7 +1,7 @@
 ## egFWD Advanced Cloud DevOps project 2:
 # Deploy a High-Availability Web App using CloudFormation
 ## Infrastructure Diagram
-![infrastructue diagram](Udagram.png)
+![infrastructue diagram](README.d/Udagram.png)
 
 ---
 ## Project specifications
@@ -35,4 +35,4 @@
 |Output|Any values in the output section are a bonus|✓|
 |Bastion Host|Any resource of type AWS::EC2::Instance, optional, but nice to have.|–|
 ---
-<sup>[official project review](https://htmlpreview.github.io/?https://github.com/janw4ld/IAC-egFWD/blob/main/project-review.html)</sup>
+<sup>[official project review](https://htmlpreview.github.io/?https://github.com/janw4ld/IAC-egFWD/blob/main/README.d/project-review.html)</sup>
